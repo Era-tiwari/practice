@@ -2,4 +2,14 @@ Hi! The new text file is just for practicing.
  Git commands will be saved in here:
 
 1. git init: to initialize a repo in folder of your wish.
+2. git add : to add new files which are untracked by git.
+3. git commit: to stage the changes to be included in git.
+4. git checkout -b <branch_name> : to create new branch and will move to that branch.
+5. git branch: shows all branch.
+6. git remote add origin <address> : adding locally built repo onto github.
+7. git push -u origin <main_branch> : pushes changes on master branch.
+   So, to push your changes to the remote repository, you could've used either t   he command: git push git@github.com:git/git.git yourbranchname or git push or   igin yourbranchname
+8. git pull origin master : recent changes get reflected.
+
+
 
