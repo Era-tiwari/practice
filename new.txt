@@ -1,0 +1,5 @@
+Hi! The new text file is just for practicing.
+ Git commands will be saved in here:
+
+1. git init: to initialize a repo in folder of your wish.
+
